@@ -1,4 +1,4 @@
-assets/built/*.css      -text -diff merge
-assets/built/*.css.map  -text -diff merge
-assets/built/*.js       -text -diff merge
-assets/built/*.js.map   -text -diff merge
+assets/built/*.css      -diff merge=binary
+assets/built/*.css.map  -diff merge=binary
+assets/built/*.js       -diff merge=binary
+assets/built/*.js.map   -diff merge=binary
