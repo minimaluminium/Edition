@@ -1,4 +1,4 @@
-assets/built/*.css      binary merge
-assets/built/*.css.map  binary merge
-assets/built/*.js       binary merge
-assets/built/*.js.map   binary merge
+assets/built/*.css      binary
+assets/built/*.css.map  binary
+assets/built/*.js       binary
+assets/built/*.js.map   binary
